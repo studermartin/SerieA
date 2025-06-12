@@ -1,381 +1,381 @@
 "Weekday","Date","Home_team","Away_team","Home_goals","Away_Goals"
-"Sa",17.08.2024,"Genoa "," Inter Milan",2,2
-"Sa",17.08.2024,"Parma "," Fiorentina",1,1
-"Sa",17.08.2024,"AC Milan "," Torino",2,2
-"Sa",17.08.2024,"Empoli "," Monza",0,0
-"Su",18.08.2024,"Bologna "," Udinese",1,1
-"Su",18.08.2024,"Hellas Verona "," Napoli",3,0
-"Su",18.08.2024,"Cagliari "," AS Roma",0,0
-"Su",18.08.2024,"Lazio "," Venezia",1,3
-"Mo",19.08.2024,"Lecce "," Atalanta",0,4
-"Mo",19.08.2024,"Juventus "," Como",3,0
-"Sa",24.08.2024,"Parma "," AC Milan",1,2
-"Sa",24.08.2024,"Udinese "," Lazio",1,2
-"Sa",24.08.2024,"Inter Milan "," Lecce",2,0
-"Sa",24.08.2024,"Monza "," Genoa",0,1
-"Su",25.08.2024,"Fiorentina "," Venezia",0,0
-"Su",25.08.2024,"Torino "," Atalanta",1,2
-"Su",25.08.2024,"AS Roma "," Empoli",2,1
-"Su",25.08.2024,"Napoli "," Bologna",3,0
-"Mo",26.08.2024,"Cagliari "," Como",1,1
-"Mo",26.08.2024,"Hellas Verona "," Juventus",0,3
-"Fr",30.08.2024,"Venezia "," Torino",0,1
-"Fr",30.08.2024,"Inter Milan "," Atalanta",4,0
-"Sa",31.08.2024,"Bologna "," Empoli",1,1
-"Sa",31.08.2024,"Lecce "," Cagliari",1,0
-"Sa",31.08.2024,"Lazio "," AC Milan",2,2
-"Sa",31.08.2024,"Napoli "," Parma",1,2
-"Su",01.09.2024,"Fiorentina "," Monza",2,2
-"Su",01.09.2024,"Genoa "," Hellas Verona",0,2
-"Su",01.09.2024,"Juventus "," AS Roma",0,0
-"Su",01.09.2024,"Udinese "," Como",1,0
-"Sa",14.09.2024,"Como "," Bologna",2,2
-"Sa",14.09.2024,"Empoli "," Juventus",0,0
-"Sa",14.09.2024,"AC Milan "," Venezia",4,0
-"Su",15.09.2024,"Genoa "," AS Roma",1,1
-"Su",15.09.2024,"Atalanta "," Fiorentina",2,3
-"Su",15.09.2024,"Torino "," Lecce",0,0
-"Su",15.09.2024,"Cagliari "," Napoli",0,4
-"Su",15.09.2024,"Monza "," Inter Milan",1,1
-"Mo",16.09.2024,"Parma "," Udinese",3,2
-"Mo",16.09.2024,"Lazio "," Hellas Verona",1,2
-"Fr",20.09.2024,"Cagliari "," Empoli",0,2
-"Fr",20.09.2024,"Hellas Verona "," Torino",3,2
-"Sa",21.09.2024,"Venezia "," Genoa",2,0
-"Sa",21.09.2024,"Juventus "," Napoli",0,0
-"Sa",21.09.2024,"Lecce "," Parma",2,2
-"Su",22.09.2024,"Fiorentina "," Lazio",1,2
-"Su",22.09.2024,"Monza "," Bologna",2,1
-"Su",22.09.2024,"AS Roma "," Udinese",3,0
-"Su",22.09.2024,"Inter Milan "," AC Milan",2,1
-"Tu",24.09.2024,"Atalanta "," Como",3,2
-"Fr",27.09.2024,"AC Milan "," Lecce",3,0
-"Sa",28.09.2024,"Udinese "," Inter Milan",3,2
-"Sa",28.09.2024,"Genoa "," Juventus",0,3
-"Sa",28.09.2024,"Bologna "," Atalanta",1,1
-"Su",29.09.2024,"Torino "," Lazio",3,2
-"Su",29.09.2024,"AS Roma "," Venezia",1,2
-"Su",29.09.2024,"Como "," Hellas Verona",2,3
-"Su",29.09.2024,"Empoli "," Fiorentina",0,0
-"Su",29.09.2024,"Napoli "," Monza",2,0
-"Mo",30.09.2024,"Parma "," Cagliari",3,2
-"Fr",04.10.2024,"Napoli "," Como",1,3
-"Fr",04.10.2024,"Hellas Verona "," Venezia",1,2
-"Sa",05.10.2024,"Udinese "," Lecce",1,0
-"Sa",05.10.2024,"Atalanta "," Genoa",1,5
-"Sa",05.10.2024,"Inter Milan "," Torino",2,3
-"Su",06.10.2024,"Juventus "," Cagliari",1,1
-"Su",06.10.2024,"Bologna "," Parma",0,0
-"Su",06.10.2024,"Lazio "," Empoli",1,2
-"Su",06.10.2024,"Monza "," AS Roma",1,1
-"Su",06.10.2024,"Fiorentina "," AC Milan",1,2
-"Sa",19.10.2024,"Como "," Parma",1,1
-"Sa",19.10.2024,"Genoa "," Bologna",2,2
-"Sa",19.10.2024,"AC Milan "," Udinese",1,0
-"Sa",19.10.2024,"Juventus "," Lazio",1,0
-"Su",20.10.2024,"Empoli "," Napoli",0,1
-"Su",20.10.2024,"Lecce "," Fiorentina",0,6
-"Su",20.10.2024,"Venezia "," Atalanta",0,2
-"Su",20.10.2024,"Cagliari "," Torino",2,3
-"Su",20.10.2024,"AS Roma "," Inter Milan",0,1
-"Mo",21.10.2024,"Hellas Verona "," Monza",0,3
-"Fr",25.10.2024,"Udinese "," Cagliari",2,0
-"Fr",25.10.2024,"Torino "," Como",1,0
-"Sa",26.10.2024,"Napoli "," Lecce",1,0
-"Sa",26.10.2024,"Atalanta "," Hellas Verona",1,6
-"Su",27.10.2024,"Parma "," Empoli",1,1
-"Su",27.10.2024,"Lazio "," Genoa",3,0
-"Su",27.10.2024,"Monza "," Venezia",2,2
-"Su",27.10.2024,"Inter Milan "," Juventus",4,4
-"Su",27.10.2024,"Fiorentina "," AS Roma",1,5
-"Tu",29.10.2024,"Cagliari "," Bologna",0,2
-"Tu",29.10.2024,"Lecce "," Hellas Verona",1,0
-"Tu",29.10.2024,"AC Milan "," Napoli",0,2
-"We",30.10.2024,"Empoli "," Inter Milan",0,3
-"We",30.10.2024,"Venezia "," Udinese",2,3
-"We",30.10.2024,"Atalanta "," Monza",2,0
-"We",30.10.2024,"Juventus "," Parma",2,2
-"Th",31.10.2024,"Genoa "," Fiorentina",0,1
-"Th",31.10.2024,"AS Roma "," Torino",1,0
-"Th",31.10.2024,"Como "," Lazio",5,1
-"Sa",02.11.2024,"Bologna "," Lecce",1,0
-"Sa",02.11.2024,"Udinese "," Juventus",0,2
-"Sa",02.11.2024,"Monza "," AC Milan",0,1
-"Su",03.11.2024,"Napoli "," Atalanta",0,3
-"Su",03.11.2024,"Torino "," Fiorentina",0,1
-"Su",03.11.2024,"Hellas Verona "," AS Roma",2,3
-"Su",03.11.2024,"Inter Milan "," Venezia",1,0
-"Mo",04.11.2024,"Empoli "," Como",1,0
-"Mo",04.11.2024,"Parma "," Genoa",0,1
-"Mo",04.11.2024,"Lazio "," Cagliari",1,2
-"Th",07.11.2024,"Genoa "," Como",1,1
-"Fr",08.11.2024,"Lecce "," Empoli",1,1
-"Sa",09.11.2024,"Venezia "," Parma",2,1
-"Sa",09.11.2024,"Cagliari "," AC Milan",3,3
-"Sa",09.11.2024,"Juventus "," Torino",2,0
-"Su",10.11.2024,"Atalanta "," Udinese",1,2
-"Su",10.11.2024,"AS Roma "," Bologna",3,2
-"Su",10.11.2024,"Fiorentina "," Hellas Verona",1,3
-"Su",10.11.2024,"Monza "," Lazio",0,1
-"Su",10.11.2024,"Inter Milan "," Napoli",1,1
-"Sa",23.11.2024,"Hellas Verona "," Inter Milan",0,5
-"Sa",23.11.2024,"AC Milan "," Juventus",0,0
-"Sa",23.11.2024,"Parma "," Atalanta",3,1
-"Su",24.11.2024,"Genoa "," Cagliari",2,2
-"Su",24.11.2024,"Como "," Fiorentina",0,2
-"Su",24.11.2024,"Torino "," Monza",1,1
-"Su",24.11.2024,"Napoli "," AS Roma",1,0
-"Su",24.11.2024,"Lazio "," Bologna",3,0
-"Mo",25.11.2024,"Empoli "," Udinese",1,1
-"Mo",25.11.2024,"Venezia "," Lecce",0,1
-"Fr",29.11.2024,"Cagliari "," Hellas Verona",1,0
-"Sa",30.11.2024,"Como "," Monza",1,1
-"Sa",30.11.2024,"AC Milan "," Empoli",3,0
-"Sa",30.11.2024,"Bologna "," Venezia",3,0
-"Su",01.12.2024,"Udinese "," Genoa",0,2
-"Su",01.12.2024,"Parma "," Lazio",1,3
-"Su",01.12.2024,"Torino "," Napoli",0,1
-"Su",01.12.2024,"Lecce "," Juventus",1,1
-"Mo",02.12.2024,"AS Roma "," Atalanta",0,2
-"Fr",06.12.2024,"Inter Milan "," Parma",1,3
-"Fr",06.12.2024,"Atalanta "," AC Milan",1,2
-"Sa",07.12.2024,"Genoa "," Torino",0,0
-"Sa",07.12.2024,"Juventus "," Bologna",2,2
-"Sa",07.12.2024,"AS Roma "," Lecce",1,4
-"Su",08.12.2024,"Fiorentina "," Cagliari",1,0
-"Su",08.12.2024,"Hellas Verona "," Empoli",4,1
-"Su",08.12.2024,"Venezia "," Como",2,2
-"Su",08.12.2024,"Napoli "," Lazio",0,1
-"Mo",09.12.2024,"Monza "," Udinese",2,1
-"Fr",13.12.2024,"Empoli "," Torino",0,1
-"Sa",14.12.2024,"Cagliari "," Atalanta",0,1
-"Sa",14.12.2024,"Udinese "," Napoli",3,1
-"Sa",14.12.2024,"Juventus "," Venezia",2,2
-"Su",15.12.2024,"Lecce "," Monza",1,2
-"Su",15.12.2024,"Bologna "," Fiorentina",1,0
-"Su",15.12.2024,"Parma "," Hellas Verona",3,2
-"Su",15.12.2024,"Como "," AS Roma",2,0
-"Su",15.12.2024,"AC Milan "," Genoa",0,0
-"Mo",16.12.2024,"Lazio "," Inter Milan",0,6
-"Fr",20.12.2024,"Hellas Verona "," AC Milan",0,1
-"Sa",21.12.2024,"Torino "," Bologna",0,2
-"Sa",21.12.2024,"Genoa "," Napoli",2,1
-"Sa",21.12.2024,"Lecce "," Lazio",2,1
-"Su",22.12.2024,"AS Roma "," Parma",5,0
-"Su",22.12.2024,"Venezia "," Cagliari",1,2
-"Su",22.12.2024,"Atalanta "," Empoli",2,3
-"Su",22.12.2024,"Monza "," Juventus",2,1
-"Mo",23.12.2024,"Fiorentina "," Udinese",2,1
-"Mo",23.12.2024,"Inter Milan "," Como",2,0
-"Sa",28.12.2024,"Empoli "," Genoa",2,1
-"Sa",28.12.2024,"Parma "," Monza",1,2
-"Sa",28.12.2024,"Cagliari "," Inter Milan",0,3
-"Sa",28.12.2024,"Lazio "," Atalanta",1,1
-"Su",29.12.2024,"Udinese "," Torino",2,2
-"Su",29.12.2024,"Napoli "," Venezia",1,0
-"Su",29.12.2024,"Juventus "," Fiorentina",2,2
-"Su",29.12.2024,"AC Milan "," AS Roma",1,1
-"Mo",30.12.2024,"Como "," Lecce",2,0
-"Mo",30.12.2024,"Bologna "," Hellas Verona",3,2
-"Sa",04.01.2025,"Venezia "," Empoli",1,1
-"Sa",04.01.2025,"Fiorentina "," Napoli",0,3
-"Sa",04.01.2025,"Hellas Verona "," Udinese",0,0
-"Su",05.01.2025,"Monza "," Cagliari",2,1
-"Su",05.01.2025,"Lecce "," Genoa",0,0
-"Su",05.01.2025,"Torino "," Parma",0,0
-"Su",05.01.2025,"AS Roma "," Lazio",2,0
-"Fr",10.01.2025,"Lazio "," Como",1,1
-"Sa",11.01.2025,"Empoli "," Lecce",3,1
-"Sa",11.01.2025,"Udinese "," Atalanta",0,0
-"Sa",11.01.2025,"Torino "," Juventus",1,1
-"Sa",11.01.2025,"AC Milan "," Cagliari",1,1
-"Su",12.01.2025,"Genoa "," Parma",1,0
-"Su",12.01.2025,"Venezia "," Inter Milan",0,1
-"Su",12.01.2025,"Bologna "," AS Roma",2,2
-"Su",12.01.2025,"Napoli "," Hellas Verona",2,0
-"Mo",13.01.2025,"Monza "," Fiorentina",1,2
-"Tu",14.01.2025,"Como "," AC Milan",2,1
-"Tu",14.01.2025,"Atalanta "," Juventus",1,1
-"We",15.01.2025,"Inter Milan "," Bologna",2,2
-"Fr",17.01.2025,"AS Roma "," Genoa",1,3
-"Sa",18.01.2025,"Bologna "," Monza",1,3
-"Sa",18.01.2025,"Juventus "," AC Milan",2,0
-"Sa",18.01.2025,"Atalanta "," Napoli",3,2
-"Su",19.01.2025,"Fiorentina "," Torino",1,1
-"Su",19.01.2025,"Cagliari "," Lecce",1,4
-"Su",19.01.2025,"Parma "," Venezia",1,1
-"Su",19.01.2025,"Hellas Verona "," Lazio",0,3
-"Su",19.01.2025,"Inter Milan "," Empoli",1,3
-"Mo",20.01.2025,"Como "," Udinese",1,4
-"Fr",24.01.2025,"Torino "," Cagliari",2,0
-"Sa",25.01.2025,"Como "," Atalanta",2,1
-"Sa",25.01.2025,"Napoli "," Juventus",1,2
-"Sa",25.01.2025,"Empoli "," Bologna",1,1
-"Su",26.01.2025,"AC Milan "," Parma",2,3
-"Su",26.01.2025,"Udinese "," AS Roma",2,1
-"Su",26.01.2025,"Lecce "," Inter Milan",0,4
-"Su",26.01.2025,"Lazio "," Fiorentina",2,1
-"Mo",27.01.2025,"Venezia "," Hellas Verona",1,1
-"Mo",27.01.2025,"Genoa "," Monza",2,0
-"Fr",31.01.2025,"Parma "," Lecce",3,1
-"Sa",01.02.2025,"Monza "," Hellas Verona",0,1
-"Sa",01.02.2025,"Udinese "," Venezia",2,3
-"Sa",01.02.2025,"Atalanta "," Torino",1,1
-"Sa",01.02.2025,"Bologna "," Como",2,0
-"Su",02.02.2025,"Juventus "," Empoli",1,4
-"Su",02.02.2025,"Fiorentina "," Genoa",1,2
-"Su",02.02.2025,"AC Milan "," Inter Milan",1,1
-"Su",02.02.2025,"AS Roma "," Napoli",1,1
-"Mo",03.02.2025,"Cagliari "," Lazio",2,1
-"Th",06.02.2025,"Fiorentina "," Inter Milan",3,0
-"Fr",07.02.2025,"Como "," Juventus",2,1
-"Sa",08.02.2025,"Hellas Verona "," Atalanta",0,5
-"Sa",08.02.2025,"Empoli "," AC Milan",0,2
-"Sa",08.02.2025,"Torino "," Genoa",1,1
-"Su",09.02.2025,"Venezia "," AS Roma",0,1
-"Su",09.02.2025,"Cagliari "," Parma",1,2
-"Su",09.02.2025,"Lazio "," Monza",1,5
-"Su",09.02.2025,"Lecce "," Bologna",0,0
-"Su",09.02.2025,"Napoli "," Udinese",1,1
-"Mo",10.02.2025,"Inter Milan "," Fiorentina",1,2
-"Fr",14.02.2025,"Bologna "," Torino",2,3
-"Sa",15.02.2025,"Atalanta "," Cagliari",0,0
-"Sa",15.02.2025,"Lazio "," Napoli",2,2
-"Sa",15.02.2025,"AC Milan "," Hellas Verona",1,0
-"Su",16.02.2025,"Fiorentina "," Como",0,2
-"Su",16.02.2025,"Monza "," Lecce",0,0
-"Su",16.02.2025,"Udinese "," Empoli",3,0
-"Su",16.02.2025,"Parma "," AS Roma",0,1
-"Su",16.02.2025,"Juventus "," Inter Milan",1,0
-"Mo",17.02.2025,"Genoa "," Venezia",2,0
-"Fr",21.02.2025,"Lecce "," Udinese",0,1
-"Sa",22.02.2025,"Parma "," Bologna",2,0
-"Sa",22.02.2025,"Venezia "," Lazio",0,0
-"Sa",22.02.2025,"Torino "," AC Milan",1,2
-"Sa",22.02.2025,"Inter Milan "," Genoa",1,0
-"Su",23.02.2025,"Como "," Napoli",1,2
-"Su",23.02.2025,"Hellas Verona "," Fiorentina",1,0
-"Su",23.02.2025,"Empoli "," Atalanta",0,5
-"Su",23.02.2025,"Cagliari "," Juventus",0,1
-"Mo",24.02.2025,"AS Roma "," Monza",4,0
-"Th",27.02.2025,"Bologna "," AC Milan",1,2
-"Fr",28.02.2025,"Fiorentina "," Lecce",1,0
-"Sa",01.03.2025,"Atalanta "," Venezia",0,0
-"Sa",01.03.2025,"Napoli "," Inter Milan",1,1
-"Sa",01.03.2025,"Udinese "," Parma",1,0
-"Su",02.03.2025,"Monza "," Torino",0,2
-"Su",02.03.2025,"Bologna "," Cagliari",1,2
-"Su",02.03.2025,"Genoa "," Empoli",1,1
-"Su",02.03.2025,"AS Roma "," Como",1,2
-"Su",02.03.2025,"AC Milan "," Lazio",2,1
-"Mo",03.03.2025,"Juventus "," Hellas Verona",2,0
-"Fr",07.03.2025,"Cagliari "," Genoa",1,1
-"Sa",08.03.2025,"Como "," Venezia",1,1
-"Sa",08.03.2025,"Parma "," Torino",2,2
-"Sa",08.03.2025,"Lecce "," AC Milan",3,2
-"Sa",08.03.2025,"Inter Milan "," Monza",2,3
-"Su",09.03.2025,"Hellas Verona "," Bologna",2,1
-"Su",09.03.2025,"Napoli "," Fiorentina",1,2
-"Su",09.03.2025,"Empoli "," AS Roma",0,1
-"Su",09.03.2025,"Juventus "," Atalanta",0,4
-"Mo",10.03.2025,"Lazio "," Udinese",1,1
-"Fr",14.03.2025,"Genoa "," Lecce",1,2
-"Sa",15.03.2025,"Monza "," Parma",1,1
-"Sa",15.03.2025,"Udinese "," Hellas Verona",0,1
-"Sa",15.03.2025,"AC Milan "," Como",1,2
-"Sa",15.03.2025,"Torino "," Empoli",1,0
-"Su",16.03.2025,"Venezia "," Napoli",0,0
-"Su",16.03.2025,"Bologna "," Lazio",5,0
-"Su",16.03.2025,"AS Roma "," Cagliari",1,0
-"Su",16.03.2025,"Fiorentina "," Juventus",3,0
-"Su",16.03.2025,"Atalanta "," Inter Milan",0,2
-"Sa",29.03.2025,"Como "," Empoli",1,1
-"Sa",29.03.2025,"Venezia "," Bologna",0,1
-"Sa",29.03.2025,"Juventus "," Genoa",1,0
-"Sa",29.03.2025,"Lecce "," AS Roma",0,1
-"Su",30.03.2025,"Cagliari "," Monza",3,0
-"Su",30.03.2025,"Fiorentina "," Atalanta",1,0
-"Su",30.03.2025,"Inter Milan "," Udinese",1,2
-"Su",30.03.2025,"Napoli "," AC Milan",1,2
-"Mo",31.03.2025,"Hellas Verona "," Parma",0,0
-"Mo",31.03.2025,"Lazio "," Torino",1,1
-"Fr",04.04.2025,"Genoa "," Udinese",1,0
-"Sa",05.04.2025,"Monza "," Como",3,1
-"Sa",05.04.2025,"Parma "," Inter Milan",2,2
-"Sa",05.04.2025,"AC Milan "," Fiorentina",2,2
-"Su",06.04.2025,"Lecce "," Venezia",1,1
-"Su",06.04.2025,"Empoli "," Cagliari",0,0
-"Su",06.04.2025,"Torino "," Hellas Verona",1,1
-"Su",06.04.2025,"Atalanta "," Lazio",0,1
-"Su",06.04.2025,"AS Roma "," Juventus",1,1
-"Mo",07.04.2025,"Bologna "," Napoli",1,1
-"Fr",11.04.2025,"Udinese "," AC Milan",0,4
-"Sa",12.04.2025,"Venezia "," Monza",1,0
-"Sa",12.04.2025,"Inter Milan "," Cagliari",1,3
-"Sa",12.04.2025,"Juventus "," Lecce",2,1
-"Su",13.04.2025,"Atalanta "," Bologna",2,0
-"Su",13.04.2025,"Fiorentina "," Parma",0,0
-"Su",13.04.2025,"Hellas Verona "," Genoa",0,0
-"Su",13.04.2025,"Como "," Torino",1,0
-"Su",13.04.2025,"Lazio "," AS Roma",1,1
-"Mo",14.04.2025,"Napoli "," Empoli",3,0
-"Sa",19.04.2025,"Lecce "," Como",0,3
-"Sa",19.04.2025,"Monza "," Napoli",0,1
-"Sa",19.04.2025,"AS Roma "," Hellas Verona",1,0
-"Su",20.04.2025,"Empoli "," Venezia",2,2
-"Su",20.04.2025,"Bologna "," Inter Milan",1,0
-"Su",20.04.2025,"AC Milan "," Atalanta",0,1
-"We",23.04.2025,"Cagliari "," Fiorentina",2,1
-"We",23.04.2025,"Genoa "," Lazio",0,2
-"We",23.04.2025,"Parma "," Juventus",1,0
-"We",23.04.2025,"Torino "," Udinese",2,0
-"Su",27.04.2025,"Como "," Genoa",1,0
-"Su",27.04.2025,"Venezia "," AC Milan",0,2
-"Su",27.04.2025,"Fiorentina "," Empoli",1,2
-"Su",27.04.2025,"Inter Milan "," AS Roma",0,1
-"Su",27.04.2025,"Juventus "," Monza",2,0
-"Su",27.04.2025,"Atalanta "," Lecce",1,1
-"Su",27.04.2025,"Napoli "," Torino",2,0
-"Mo",28.04.2025,"Udinese "," Bologna",0,0
-"Mo",28.04.2025,"Hellas Verona "," Cagliari",0,2
-"Mo",28.04.2025,"Lazio "," Parma",2,2
-"Fr",02.05.2025,"Torino "," Venezia",1,1
-"Sa",03.05.2025,"Cagliari "," Udinese",2,1
-"Sa",03.05.2025,"Parma "," Como",0,1
-"Sa",03.05.2025,"Lecce "," Napoli",0,1
-"Sa",03.05.2025,"Inter Milan "," Hellas Verona",1,0
-"Su",04.05.2025,"Empoli "," Lazio",0,1
-"Su",04.05.2025,"Monza "," Atalanta",0,4
-"Su",04.05.2025,"AS Roma "," Fiorentina",1,0
-"Su",04.05.2025,"Bologna "," Juventus",1,1
-"Mo",05.05.2025,"Genoa "," AC Milan",2,1
-"Fr",09.05.2025,"AC Milan "," Bologna",1,3
-"Sa",10.05.2025,"Como "," Cagliari",1,3
-"Sa",10.05.2025,"Lazio "," Juventus",1,1
-"Sa",10.05.2025,"Empoli "," Parma",1,2
-"Su",11.05.2025,"Udinese "," Monza",2,1
-"Su",11.05.2025,"Hellas Verona "," Lecce",1,1
-"Su",11.05.2025,"Torino "," Inter Milan",0,2
-"Su",11.05.2025,"Napoli "," Genoa",2,2
-"Mo",12.05.2025,"Venezia "," Fiorentina",1,2
-"Mo",12.05.2025,"Atalanta "," AS Roma",1,2
-"Sa",17.05.2025,"Genoa "," Atalanta",3,2
-"Su",18.05.2025,"AS Roma "," AC Milan",1,3
-"Su",18.05.2025,"Cagliari "," Venezia",3,0
-"Su",18.05.2025,"Fiorentina "," Bologna",2,3
-"Su",18.05.2025,"Hellas Verona "," Como",1,1
-"Su",18.05.2025,"Inter Milan "," Lazio",2,2
-"Su",18.05.2025,"Juventus "," Udinese",2,0
-"Su",18.05.2025,"Lecce "," Torino",1,0
-"Su",18.05.2025,"Monza "," Empoli",3,1
-"Su",18.05.2025,"Parma "," Napoli",0,0
-"Fr",23.05.2025,"Como "," Inter Milan",0,2
-"Fr",23.05.2025,"Napoli "," Cagliari",2,0
-"Sa",24.05.2025,"Bologna "," Genoa",3,1
-"Sa",24.05.2025,"AC Milan "," Monza",2,0
-"Su",25.05.2025,"Atalanta "," Parma",3,2
-"Su",25.05.2025,"Empoli "," Hellas Verona",2,1
-"Su",25.05.2025,"Lazio "," Lecce",0,1
-"Su",25.05.2025,"Torino "," AS Roma",0,2
-"Su",25.05.2025,"Udinese "," Fiorentina",3,2
-"Su",25.05.2025,"Venezia "," Juventus",2,3
+"Sa",17.08.2024,"Genoa","Inter Milan",2,2
+"Sa",17.08.2024,"Parma","Fiorentina",1,1
+"Sa",17.08.2024,"AC Milan","Torino",2,2
+"Sa",17.08.2024,"Empoli","Monza",0,0
+"Su",18.08.2024,"Bologna","Udinese",1,1
+"Su",18.08.2024,"Hellas Verona","Napoli",3,0
+"Su",18.08.2024,"Cagliari","AS Roma",0,0
+"Su",18.08.2024,"Lazio","Venezia",1,3
+"Mo",19.08.2024,"Lecce","Atalanta",0,4
+"Mo",19.08.2024,"Juventus","Como",3,0
+"Sa",24.08.2024,"Parma","AC Milan",1,2
+"Sa",24.08.2024,"Udinese","Lazio",1,2
+"Sa",24.08.2024,"Inter Milan","Lecce",2,0
+"Sa",24.08.2024,"Monza","Genoa",0,1
+"Su",25.08.2024,"Fiorentina","Venezia",0,0
+"Su",25.08.2024,"Torino","Atalanta",1,2
+"Su",25.08.2024,"AS Roma","Empoli",2,1
+"Su",25.08.2024,"Napoli","Bologna",3,0
+"Mo",26.08.2024,"Cagliari","Como",1,1
+"Mo",26.08.2024,"Hellas Verona","Juventus",0,3
+"Fr",30.08.2024,"Venezia","Torino",0,1
+"Fr",30.08.2024,"Inter Milan","Atalanta",4,0
+"Sa",31.08.2024,"Bologna","Empoli",1,1
+"Sa",31.08.2024,"Lecce","Cagliari",1,0
+"Sa",31.08.2024,"Lazio","AC Milan",2,2
+"Sa",31.08.2024,"Napoli","Parma",1,2
+"Su",01.09.2024,"Fiorentina","Monza",2,2
+"Su",01.09.2024,"Genoa","Hellas Verona",0,2
+"Su",01.09.2024,"Juventus","AS Roma",0,0
+"Su",01.09.2024,"Udinese","Como",1,0
+"Sa",14.09.2024,"Como","Bologna",2,2
+"Sa",14.09.2024,"Empoli","Juventus",0,0
+"Sa",14.09.2024,"AC Milan","Venezia",4,0
+"Su",15.09.2024,"Genoa","AS Roma",1,1
+"Su",15.09.2024,"Atalanta","Fiorentina",2,3
+"Su",15.09.2024,"Torino","Lecce",0,0
+"Su",15.09.2024,"Cagliari","Napoli",0,4
+"Su",15.09.2024,"Monza","Inter Milan",1,1
+"Mo",16.09.2024,"Parma","Udinese",3,2
+"Mo",16.09.2024,"Lazio","Hellas Verona",1,2
+"Fr",20.09.2024,"Cagliari","Empoli",0,2
+"Fr",20.09.2024,"Hellas Verona","Torino",3,2
+"Sa",21.09.2024,"Venezia","Genoa",2,0
+"Sa",21.09.2024,"Juventus","Napoli",0,0
+"Sa",21.09.2024,"Lecce","Parma",2,2
+"Su",22.09.2024,"Fiorentina","Lazio",1,2
+"Su",22.09.2024,"Monza","Bologna",2,1
+"Su",22.09.2024,"AS Roma","Udinese",3,0
+"Su",22.09.2024,"Inter Milan","AC Milan",2,1
+"Tu",24.09.2024,"Atalanta","Como",3,2
+"Fr",27.09.2024,"AC Milan","Lecce",3,0
+"Sa",28.09.2024,"Udinese","Inter Milan",3,2
+"Sa",28.09.2024,"Genoa","Juventus",0,3
+"Sa",28.09.2024,"Bologna","Atalanta",1,1
+"Su",29.09.2024,"Torino","Lazio",3,2
+"Su",29.09.2024,"AS Roma","Venezia",1,2
+"Su",29.09.2024,"Como","Hellas Verona",2,3
+"Su",29.09.2024,"Empoli","Fiorentina",0,0
+"Su",29.09.2024,"Napoli","Monza",2,0
+"Mo",30.09.2024,"Parma","Cagliari",3,2
+"Fr",04.10.2024,"Napoli","Como",1,3
+"Fr",04.10.2024,"Hellas Verona","Venezia",1,2
+"Sa",05.10.2024,"Udinese","Lecce",1,0
+"Sa",05.10.2024,"Atalanta","Genoa",1,5
+"Sa",05.10.2024,"Inter Milan","Torino",2,3
+"Su",06.10.2024,"Juventus","Cagliari",1,1
+"Su",06.10.2024,"Bologna","Parma",0,0
+"Su",06.10.2024,"Lazio","Empoli",1,2
+"Su",06.10.2024,"Monza","AS Roma",1,1
+"Su",06.10.2024,"Fiorentina","AC Milan",1,2
+"Sa",19.10.2024,"Como","Parma",1,1
+"Sa",19.10.2024,"Genoa","Bologna",2,2
+"Sa",19.10.2024,"AC Milan","Udinese",1,0
+"Sa",19.10.2024,"Juventus","Lazio",1,0
+"Su",20.10.2024,"Empoli","Napoli",0,1
+"Su",20.10.2024,"Lecce","Fiorentina",0,6
+"Su",20.10.2024,"Venezia","Atalanta",0,2
+"Su",20.10.2024,"Cagliari","Torino",2,3
+"Su",20.10.2024,"AS Roma","Inter Milan",0,1
+"Mo",21.10.2024,"Hellas Verona","Monza",0,3
+"Fr",25.10.2024,"Udinese","Cagliari",2,0
+"Fr",25.10.2024,"Torino","Como",1,0
+"Sa",26.10.2024,"Napoli","Lecce",1,0
+"Sa",26.10.2024,"Atalanta","Hellas Verona",1,6
+"Su",27.10.2024,"Parma","Empoli",1,1
+"Su",27.10.2024,"Lazio","Genoa",3,0
+"Su",27.10.2024,"Monza","Venezia",2,2
+"Su",27.10.2024,"Inter Milan","Juventus",4,4
+"Su",27.10.2024,"Fiorentina","AS Roma",1,5
+"Tu",29.10.2024,"Cagliari","Bologna",0,2
+"Tu",29.10.2024,"Lecce","Hellas Verona",1,0
+"Tu",29.10.2024,"AC Milan","Napoli",0,2
+"We",30.10.2024,"Empoli","Inter Milan",0,3
+"We",30.10.2024,"Venezia","Udinese",2,3
+"We",30.10.2024,"Atalanta","Monza",2,0
+"We",30.10.2024,"Juventus","Parma",2,2
+"Th",31.10.2024,"Genoa","Fiorentina",0,1
+"Th",31.10.2024,"AS Roma","Torino",1,0
+"Th",31.10.2024,"Como","Lazio",5,1
+"Sa",02.11.2024,"Bologna","Lecce",1,0
+"Sa",02.11.2024,"Udinese","Juventus",0,2
+"Sa",02.11.2024,"Monza","AC Milan",0,1
+"Su",03.11.2024,"Napoli","Atalanta",0,3
+"Su",03.11.2024,"Torino","Fiorentina",0,1
+"Su",03.11.2024,"Hellas Verona","AS Roma",2,3
+"Su",03.11.2024,"Inter Milan","Venezia",1,0
+"Mo",04.11.2024,"Empoli","Como",1,0
+"Mo",04.11.2024,"Parma","Genoa",0,1
+"Mo",04.11.2024,"Lazio","Cagliari",1,2
+"Th",07.11.2024,"Genoa","Como",1,1
+"Fr",08.11.2024,"Lecce","Empoli",1,1
+"Sa",09.11.2024,"Venezia","Parma",2,1
+"Sa",09.11.2024,"Cagliari","AC Milan",3,3
+"Sa",09.11.2024,"Juventus","Torino",2,0
+"Su",10.11.2024,"Atalanta","Udinese",1,2
+"Su",10.11.2024,"AS Roma","Bologna",3,2
+"Su",10.11.2024,"Fiorentina","Hellas Verona",1,3
+"Su",10.11.2024,"Monza","Lazio",0,1
+"Su",10.11.2024,"Inter Milan","Napoli",1,1
+"Sa",23.11.2024,"Hellas Verona","Inter Milan",0,5
+"Sa",23.11.2024,"AC Milan","Juventus",0,0
+"Sa",23.11.2024,"Parma","Atalanta",3,1
+"Su",24.11.2024,"Genoa","Cagliari",2,2
+"Su",24.11.2024,"Como","Fiorentina",0,2
+"Su",24.11.2024,"Torino","Monza",1,1
+"Su",24.11.2024,"Napoli","AS Roma",1,0
+"Su",24.11.2024,"Lazio","Bologna",3,0
+"Mo",25.11.2024,"Empoli","Udinese",1,1
+"Mo",25.11.2024,"Venezia","Lecce",0,1
+"Fr",29.11.2024,"Cagliari","Hellas Verona",1,0
+"Sa",30.11.2024,"Como","Monza",1,1
+"Sa",30.11.2024,"AC Milan","Empoli",3,0
+"Sa",30.11.2024,"Bologna","Venezia",3,0
+"Su",01.12.2024,"Udinese","Genoa",0,2
+"Su",01.12.2024,"Parma","Lazio",1,3
+"Su",01.12.2024,"Torino","Napoli",0,1
+"Su",01.12.2024,"Lecce","Juventus",1,1
+"Mo",02.12.2024,"AS Roma","Atalanta",0,2
+"Fr",06.12.2024,"Inter Milan","Parma",1,3
+"Fr",06.12.2024,"Atalanta","AC Milan",1,2
+"Sa",07.12.2024,"Genoa","Torino",0,0
+"Sa",07.12.2024,"Juventus","Bologna",2,2
+"Sa",07.12.2024,"AS Roma","Lecce",1,4
+"Su",08.12.2024,"Fiorentina","Cagliari",1,0
+"Su",08.12.2024,"Hellas Verona","Empoli",4,1
+"Su",08.12.2024,"Venezia","Como",2,2
+"Su",08.12.2024,"Napoli","Lazio",0,1
+"Mo",09.12.2024,"Monza","Udinese",2,1
+"Fr",13.12.2024,"Empoli","Torino",0,1
+"Sa",14.12.2024,"Cagliari","Atalanta",0,1
+"Sa",14.12.2024,"Udinese","Napoli",3,1
+"Sa",14.12.2024,"Juventus","Venezia",2,2
+"Su",15.12.2024,"Lecce","Monza",1,2
+"Su",15.12.2024,"Bologna","Fiorentina",1,0
+"Su",15.12.2024,"Parma","Hellas Verona",3,2
+"Su",15.12.2024,"Como","AS Roma",2,0
+"Su",15.12.2024,"AC Milan","Genoa",0,0
+"Mo",16.12.2024,"Lazio","Inter Milan",0,6
+"Fr",20.12.2024,"Hellas Verona","AC Milan",0,1
+"Sa",21.12.2024,"Torino","Bologna",0,2
+"Sa",21.12.2024,"Genoa","Napoli",2,1
+"Sa",21.12.2024,"Lecce","Lazio",2,1
+"Su",22.12.2024,"AS Roma","Parma",5,0
+"Su",22.12.2024,"Venezia","Cagliari",1,2
+"Su",22.12.2024,"Atalanta","Empoli",2,3
+"Su",22.12.2024,"Monza","Juventus",2,1
+"Mo",23.12.2024,"Fiorentina","Udinese",2,1
+"Mo",23.12.2024,"Inter Milan","Como",2,0
+"Sa",28.12.2024,"Empoli","Genoa",2,1
+"Sa",28.12.2024,"Parma","Monza",1,2
+"Sa",28.12.2024,"Cagliari","Inter Milan",0,3
+"Sa",28.12.2024,"Lazio","Atalanta",1,1
+"Su",29.12.2024,"Udinese","Torino",2,2
+"Su",29.12.2024,"Napoli","Venezia",1,0
+"Su",29.12.2024,"Juventus","Fiorentina",2,2
+"Su",29.12.2024,"AC Milan","AS Roma",1,1
+"Mo",30.12.2024,"Como","Lecce",2,0
+"Mo",30.12.2024,"Bologna","Hellas Verona",3,2
+"Sa",04.01.2025,"Venezia","Empoli",1,1
+"Sa",04.01.2025,"Fiorentina","Napoli",0,3
+"Sa",04.01.2025,"Hellas Verona","Udinese",0,0
+"Su",05.01.2025,"Monza","Cagliari",2,1
+"Su",05.01.2025,"Lecce","Genoa",0,0
+"Su",05.01.2025,"Torino","Parma",0,0
+"Su",05.01.2025,"AS Roma","Lazio",2,0
+"Fr",10.01.2025,"Lazio","Como",1,1
+"Sa",11.01.2025,"Empoli","Lecce",3,1
+"Sa",11.01.2025,"Udinese","Atalanta",0,0
+"Sa",11.01.2025,"Torino","Juventus",1,1
+"Sa",11.01.2025,"AC Milan","Cagliari",1,1
+"Su",12.01.2025,"Genoa","Parma",1,0
+"Su",12.01.2025,"Venezia","Inter Milan",0,1
+"Su",12.01.2025,"Bologna","AS Roma",2,2
+"Su",12.01.2025,"Napoli","Hellas Verona",2,0
+"Mo",13.01.2025,"Monza","Fiorentina",1,2
+"Tu",14.01.2025,"Como","AC Milan",2,1
+"Tu",14.01.2025,"Atalanta","Juventus",1,1
+"We",15.01.2025,"Inter Milan","Bologna",2,2
+"Fr",17.01.2025,"AS Roma","Genoa",1,3
+"Sa",18.01.2025,"Bologna","Monza",1,3
+"Sa",18.01.2025,"Juventus","AC Milan",2,0
+"Sa",18.01.2025,"Atalanta","Napoli",3,2
+"Su",19.01.2025,"Fiorentina","Torino",1,1
+"Su",19.01.2025,"Cagliari","Lecce",1,4
+"Su",19.01.2025,"Parma","Venezia",1,1
+"Su",19.01.2025,"Hellas Verona","Lazio",0,3
+"Su",19.01.2025,"Inter Milan","Empoli",1,3
+"Mo",20.01.2025,"Como","Udinese",1,4
+"Fr",24.01.2025,"Torino","Cagliari",2,0
+"Sa",25.01.2025,"Como","Atalanta",2,1
+"Sa",25.01.2025,"Napoli","Juventus",1,2
+"Sa",25.01.2025,"Empoli","Bologna",1,1
+"Su",26.01.2025,"AC Milan","Parma",2,3
+"Su",26.01.2025,"Udinese","AS Roma",2,1
+"Su",26.01.2025,"Lecce","Inter Milan",0,4
+"Su",26.01.2025,"Lazio","Fiorentina",2,1
+"Mo",27.01.2025,"Venezia","Hellas Verona",1,1
+"Mo",27.01.2025,"Genoa","Monza",2,0
+"Fr",31.01.2025,"Parma","Lecce",3,1
+"Sa",01.02.2025,"Monza","Hellas Verona",0,1
+"Sa",01.02.2025,"Udinese","Venezia",2,3
+"Sa",01.02.2025,"Atalanta","Torino",1,1
+"Sa",01.02.2025,"Bologna","Como",2,0
+"Su",02.02.2025,"Juventus","Empoli",1,4
+"Su",02.02.2025,"Fiorentina","Genoa",1,2
+"Su",02.02.2025,"AC Milan","Inter Milan",1,1
+"Su",02.02.2025,"AS Roma","Napoli",1,1
+"Mo",03.02.2025,"Cagliari","Lazio",2,1
+"Th",06.02.2025,"Fiorentina","Inter Milan",3,0
+"Fr",07.02.2025,"Como","Juventus",2,1
+"Sa",08.02.2025,"Hellas Verona","Atalanta",0,5
+"Sa",08.02.2025,"Empoli","AC Milan",0,2
+"Sa",08.02.2025,"Torino","Genoa",1,1
+"Su",09.02.2025,"Venezia","AS Roma",0,1
+"Su",09.02.2025,"Cagliari","Parma",1,2
+"Su",09.02.2025,"Lazio","Monza",1,5
+"Su",09.02.2025,"Lecce","Bologna",0,0
+"Su",09.02.2025,"Napoli","Udinese",1,1
+"Mo",10.02.2025,"Inter Milan","Fiorentina",1,2
+"Fr",14.02.2025,"Bologna","Torino",2,3
+"Sa",15.02.2025,"Atalanta","Cagliari",0,0
+"Sa",15.02.2025,"Lazio","Napoli",2,2
+"Sa",15.02.2025,"AC Milan","Hellas Verona",1,0
+"Su",16.02.2025,"Fiorentina","Como",0,2
+"Su",16.02.2025,"Monza","Lecce",0,0
+"Su",16.02.2025,"Udinese","Empoli",3,0
+"Su",16.02.2025,"Parma","AS Roma",0,1
+"Su",16.02.2025,"Juventus","Inter Milan",1,0
+"Mo",17.02.2025,"Genoa","Venezia",2,0
+"Fr",21.02.2025,"Lecce","Udinese",0,1
+"Sa",22.02.2025,"Parma","Bologna",2,0
+"Sa",22.02.2025,"Venezia","Lazio",0,0
+"Sa",22.02.2025,"Torino","AC Milan",1,2
+"Sa",22.02.2025,"Inter Milan","Genoa",1,0
+"Su",23.02.2025,"Como","Napoli",1,2
+"Su",23.02.2025,"Hellas Verona","Fiorentina",1,0
+"Su",23.02.2025,"Empoli","Atalanta",0,5
+"Su",23.02.2025,"Cagliari","Juventus",0,1
+"Mo",24.02.2025,"AS Roma","Monza",4,0
+"Th",27.02.2025,"Bologna","AC Milan",1,2
+"Fr",28.02.2025,"Fiorentina","Lecce",1,0
+"Sa",01.03.2025,"Atalanta","Venezia",0,0
+"Sa",01.03.2025,"Napoli","Inter Milan",1,1
+"Sa",01.03.2025,"Udinese","Parma",1,0
+"Su",02.03.2025,"Monza","Torino",0,2
+"Su",02.03.2025,"Bologna","Cagliari",1,2
+"Su",02.03.2025,"Genoa","Empoli",1,1
+"Su",02.03.2025,"AS Roma","Como",1,2
+"Su",02.03.2025,"AC Milan","Lazio",2,1
+"Mo",03.03.2025,"Juventus","Hellas Verona",2,0
+"Fr",07.03.2025,"Cagliari","Genoa",1,1
+"Sa",08.03.2025,"Como","Venezia",1,1
+"Sa",08.03.2025,"Parma","Torino",2,2
+"Sa",08.03.2025,"Lecce","AC Milan",3,2
+"Sa",08.03.2025,"Inter Milan","Monza",2,3
+"Su",09.03.2025,"Hellas Verona","Bologna",2,1
+"Su",09.03.2025,"Napoli","Fiorentina",1,2
+"Su",09.03.2025,"Empoli","AS Roma",0,1
+"Su",09.03.2025,"Juventus","Atalanta",0,4
+"Mo",10.03.2025,"Lazio","Udinese",1,1
+"Fr",14.03.2025,"Genoa","Lecce",1,2
+"Sa",15.03.2025,"Monza","Parma",1,1
+"Sa",15.03.2025,"Udinese","Hellas Verona",0,1
+"Sa",15.03.2025,"AC Milan","Como",1,2
+"Sa",15.03.2025,"Torino","Empoli",1,0
+"Su",16.03.2025,"Venezia","Napoli",0,0
+"Su",16.03.2025,"Bologna","Lazio",5,0
+"Su",16.03.2025,"AS Roma","Cagliari",1,0
+"Su",16.03.2025,"Fiorentina","Juventus",3,0
+"Su",16.03.2025,"Atalanta","Inter Milan",0,2
+"Sa",29.03.2025,"Como","Empoli",1,1
+"Sa",29.03.2025,"Venezia","Bologna",0,1
+"Sa",29.03.2025,"Juventus","Genoa",1,0
+"Sa",29.03.2025,"Lecce","AS Roma",0,1
+"Su",30.03.2025,"Cagliari","Monza",3,0
+"Su",30.03.2025,"Fiorentina","Atalanta",1,0
+"Su",30.03.2025,"Inter Milan","Udinese",1,2
+"Su",30.03.2025,"Napoli","AC Milan",1,2
+"Mo",31.03.2025,"Hellas Verona","Parma",0,0
+"Mo",31.03.2025,"Lazio","Torino",1,1
+"Fr",04.04.2025,"Genoa","Udinese",1,0
+"Sa",05.04.2025,"Monza","Como",3,1
+"Sa",05.04.2025,"Parma","Inter Milan",2,2
+"Sa",05.04.2025,"AC Milan","Fiorentina",2,2
+"Su",06.04.2025,"Lecce","Venezia",1,1
+"Su",06.04.2025,"Empoli","Cagliari",0,0
+"Su",06.04.2025,"Torino","Hellas Verona",1,1
+"Su",06.04.2025,"Atalanta","Lazio",0,1
+"Su",06.04.2025,"AS Roma","Juventus",1,1
+"Mo",07.04.2025,"Bologna","Napoli",1,1
+"Fr",11.04.2025,"Udinese","AC Milan",0,4
+"Sa",12.04.2025,"Venezia","Monza",1,0
+"Sa",12.04.2025,"Inter Milan","Cagliari",1,3
+"Sa",12.04.2025,"Juventus","Lecce",1,2
+"Su",13.04.2025,"Atalanta","Bologna",2,0
+"Su",13.04.2025,"Fiorentina","Parma",0,0
+"Su",13.04.2025,"Hellas Verona","Genoa",0,0
+"Su",13.04.2025,"Como","Torino",1,0
+"Su",13.04.2025,"Lazio","AS Roma",1,1
+"Mo",14.04.2025,"Napoli","Empoli",3,0
+"Sa",19.04.2025,"Lecce","Como",0,3
+"Sa",19.04.2025,"Monza","Napoli",0,1
+"Sa",19.04.2025,"AS Roma","Hellas Verona",1,0
+"Su",20.04.2025,"Empoli","Venezia",2,2
+"Su",20.04.2025,"Bologna","Inter Milan",1,0
+"Su",20.04.2025,"AC Milan","Atalanta",0,1
+"We",23.04.2025,"Cagliari","Fiorentina",2,1
+"We",23.04.2025,"Genoa","Lazio",0,2
+"We",23.04.2025,"Parma","Juventus",1,0
+"We",23.04.2025,"Torino","Udinese",2,0
+"Su",27.04.2025,"Como","Genoa",1,0
+"Su",27.04.2025,"Venezia","AC Milan",0,2
+"Su",27.04.2025,"Fiorentina","Empoli",1,2
+"Su",27.04.2025,"Inter Milan","AS Roma",0,1
+"Su",27.04.2025,"Juventus","Monza",2,0
+"Su",27.04.2025,"Atalanta","Lecce",1,1
+"Su",27.04.2025,"Napoli","Torino",2,0
+"Mo",28.04.2025,"Udinese","Bologna",0,0
+"Mo",28.04.2025,"Hellas Verona","Cagliari",0,2
+"Mo",28.04.2025,"Lazio","Parma",2,2
+"Fr",02.05.2025,"Torino","Venezia",1,1
+"Sa",03.05.2025,"Cagliari","Udinese",2,1
+"Sa",03.05.2025,"Parma","Como",0,1
+"Sa",03.05.2025,"Lecce","Napoli",0,1
+"Sa",03.05.2025,"Inter Milan","Hellas Verona",1,0
+"Su",04.05.2025,"Empoli","Lazio",0,1
+"Su",04.05.2025,"Monza","Atalanta",0,4
+"Su",04.05.2025,"AS Roma","Fiorentina",1,0
+"Su",04.05.2025,"Bologna","Juventus",1,1
+"Mo",05.05.2025,"Genoa","AC Milan",2,1
+"Fr",09.05.2025,"AC Milan","Bologna",1,3
+"Sa",10.05.2025,"Como","Cagliari",1,3
+"Sa",10.05.2025,"Lazio","Juventus",1,1
+"Sa",10.05.2025,"Empoli","Parma",1,2
+"Su",11.05.2025,"Udinese","Monza",2,1
+"Su",11.05.2025,"Hellas Verona","Lecce",1,1
+"Su",11.05.2025,"Torino","Inter Milan",0,2
+"Su",11.05.2025,"Napoli","Genoa",2,2
+"Mo",12.05.2025,"Venezia","Fiorentina",1,2
+"Mo",12.05.2025,"Atalanta","AS Roma",1,2
+"Sa",17.05.2025,"Genoa","Atalanta",3,2
+"Su",18.05.2025,"AS Roma","AC Milan",1,3
+"Su",18.05.2025,"Cagliari","Venezia",3,0
+"Su",18.05.2025,"Fiorentina","Bologna",2,3
+"Su",18.05.2025,"Hellas Verona","Como",1,1
+"Su",18.05.2025,"Inter Milan","Lazio",2,2
+"Su",18.05.2025,"Juventus","Udinese",2,0
+"Su",18.05.2025,"Lecce","Torino",1,0
+"Su",18.05.2025,"Monza","Empoli",3,1
+"Su",18.05.2025,"Parma","Napoli",0,0
+"Fr",23.05.2025,"Como","Inter Milan",0,2
+"Fr",23.05.2025,"Napoli","Cagliari",2,0
+"Sa",24.05.2025,"Bologna","Genoa",3,1
+"Sa",24.05.2025,"AC Milan","Monza",2,0
+"Su",25.05.2025,"Atalanta","Parma",3,2
+"Su",25.05.2025,"Empoli","Hellas Verona",2,1
+"Su",25.05.2025,"Lazio","Lecce",0,1
+"Su",25.05.2025,"Torino","AS Roma",0,2
+"Su",25.05.2025,"Udinese","Fiorentina",3,2
+"Su",25.05.2025,"Venezia","Juventus",3,2

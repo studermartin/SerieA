@@ -1,9 +1,6 @@
 '''
 Notes
 - The file results.csv has been exported using LibreOffice.
-- Filter settings:
-  - Encoding: Unicode (UTF-8)
-  - Separator: Semicolon
 '''
 
 import csv
@@ -15,16 +12,29 @@ matches = []
 with open('results.csv', mode='r') as file:
     # Reading the CSV file
     csvFile = csv.reader(file)
-    csvFile.__next__()  # Skip the header row
+    
+    # Skipping the header (uncomment if needed)
+    line = next(csvFile)
+    # print(line)
+    # print(line[0])
+    hometeam_vs_awayteam = line[0]
+    (hometeam, _, awayteam) = hometeam_vs_awayteam.split(" ")
+    # print(hometeam)
+    # print(awayteam)
+
+    
 
     # Displaying the contents of the CSV file
     for line in csvFile:
-        print(line)
+        # print(line)
         date = datetime.strptime(line[1], '%d.%m.%Y')
         # print(date)
 
-        home_team = line[2]
-        away_team = line[3]
+        home_team = line[3]
+        if home_team=="Atalanta":
+            away_team = "Parma"
+        else:
+            away_team = "Atalanta"
 
         home_goals = int(line[4])
         # print(home_goals)
